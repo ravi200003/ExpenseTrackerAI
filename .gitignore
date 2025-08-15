@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Frontend specific
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.env
+
+# Backend specific
+backend/node_modules/
+backend/build/
+backend/dist/
+backend/.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
